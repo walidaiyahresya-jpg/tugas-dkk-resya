@@ -1,0 +1,12 @@
+#Menghitung luas segi tiga dengan alas dan tinggi yang di input
+#diketahui
+#Membaca inputan
+panjang = 12;
+lebar = 7;
+luas = panjang * lebar
+
+print(f"panjang ={panjang}")
+print(f"lebar ={lebar}")
+print(f"luas ={luas}")
+
+

@@ -1,0 +1,202 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Kotak Utama (Card) */
+.profile-card {
+  background: #ffffff;
+  padding: 35px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  max-width: 650px;
+  width: 100%;
+}
+
+h1 {
+  color: #ff4b6e;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+h3 {
+  color: #333;
+  border-bottom: 2px solid #ff4b6e;
+  padding-bottom: 5px;
+  margin-top: 25px;
+  font-size: 18px;
+}
+
+/* Foto Profil */
+.sapa-box {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.foto-profil {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #ff9a9e;
+  margin-bottom: 10px;
+}
+
+.intro-teks {
+  font-size: 16px;
+  color: #444;
+  font-weight: 500;
+}
+
+/* List / Daftar */
+ul {
+  padding-left: 20px;
+  line-height: 1.8;
+  color: #555;
+  font-size: 14px;
+}
+
+/* Tabel Jadwal */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background-color: #ffffff;
+}
+
+th, td {
+  border: 1px solid #ffd1d8;
+  padding: 10px;
+  text-align: center;
+  color: #555;
+  font-size: 14px;
+}
+
+th {
+  background-color: #ff9a9e;
+  color: white;
+  font-weight: 600;
+}
+
+tr:nth-child(even) {
+  background-color: #fff5f7;
+}
+
+/* Formulir Sapa */
+.sapa-form-box {
+  margin-top: 25px;
+}
+
+#sapaForm {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+input[type="text"] {
+  flex: 1;
+  padding: 10px 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  outline: none;
+}
+
+input[type="text"]:focus {
+  border-color: #ff4b6e;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff4b6e;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+}
+
+button:hover {
+  background-color: #e03b5b;
+}
+
+#hasilSapa {
+  margin-top: 12px;
+  font-weight: 600;
+  color: #ff4b6e;
+  font-size: 15px;
+}
+
+/* Pengaturan Umum */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Kotak Kontainer Utama */
+.container {
+    width: 100%;
+    max-width: 400px;
+    background: white;
+    padding: 30px 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    text-align: center;
+}
+
+/* Foto Profil */
+.profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 3px solid #007bff;
+}
+
+/* Teks Nama & Bio */
+h1 {
+    font-size: 22px;
+    margin: 0 0 5px 0;
+    color: #333;
+}
+
+.bio {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 25px;
+}
+
+/* Desain Tombol Menu */
+.menu-links {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.menu-item {
+    display: block;
+    background-color: #ffffff;
+    color: #333;
+    text-decoration: none;
+    padding: 14px 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    font-weight: 600;
+    font-size: 15px;
+    transition: all 0.3s ease;
+}
+

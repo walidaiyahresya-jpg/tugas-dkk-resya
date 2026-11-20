@@ -1,0 +1,58 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="t_up68NkdqflzUS3mDKn">
+    <mxGraphModel dx="844" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X4MWNganuD-KgTHGBMty-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="429.5" y="290" as="sourcePoint" />
+            <mxPoint x="429.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Siapkan wajan, telur, minyak, garam." vertex="1">
+          <mxGeometry height="40" width="240" x="310" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Taruh wajan di kompor, dan nyalakan api berukuran sedang." vertex="1">
+          <mxGeometry height="60" width="220" x="320" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="429.5" y="370" as="sourcePoint" />
+            <mxPoint x="429.5" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Mulai." vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="429.5" y="490" as="sourcePoint" />
+            <mxPoint x="429.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Goreng hingga matang." vertex="1">
+          <mxGeometry height="40" width="200" x="330" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="429.5" y="590" as="sourcePoint" />
+            <mxPoint x="429.5" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Telur ceplok matang, dan siap saji." vertex="1">
+          <mxGeometry height="40" width="220" x="320" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="429.5" y="690" as="sourcePoint" />
+            <mxPoint x="429.5" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4MWNganuD-KgTHGBMty-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Selesai." vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
